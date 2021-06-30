@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    font-family: "Work Sans", sans-serif;
+}
+    .nav-img {
+      width: 120px;
+      height: 100px;
+    }
+    .right-nav {
+      padding: 15px 15px;
+      margin: 0px;
+      float: right;
+    }
+    .Nave {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    
+    }
+    .Nave li {
+      float: left;
+      font-size: 16px;
+      color: #ababab;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+   
+    .nav_item_nav_item_std{
+        color: black;
+        text-decoration: none;
+    }
+    .showcase{
+margin-top: 200px;
+
+    }
+    .first-article{
+        display:flex;
+        justify-content: space-between;
+        padding: 10px;
+         }
+    
+    .first-article img{
+        width: 30px;
+    }
+    .second-article{
+      display:flex;
+      justify-content: space-between;
+      padding: 10px;
+
+  }
+  .second-article img{
+      width: 30px;
+  }
+  .third-article{
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.third-article img{
+    width: 30px;
+}
+.fourth-article{
+  display:flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+.fourth-article img{
+  width: 30px;
+}
+.fifth-article{
+  display:flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+.fifth-article img{
+  width: 30px;
+}
+.sixth-article{
+  display:flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+.sixth-article img{
+  width: 30px;
+  }
+  .seventh-article{
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.seventh-article img{
+  width: 30px;
+}
+.eigth-article img{
+    width: 30px;}
+
+    .eigth-article{
+      display:flex;
+      justify-content: space-between;
+      padding: 10px;
+  
+  }
+  .sum{
+    float: right;
+
+  }
+    .product img{
+      width: 170px;}
+  
+  .product img{
+    width: 170px;}
+    
+   
+    #label {
+      margin: .4rem 0;
+  }
+  input{
+width: 70px;
+height: 50px;
+  
+  }
